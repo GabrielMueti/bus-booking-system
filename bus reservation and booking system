@@ -1,0 +1,11 @@
+Welcome to the bus reservation and booking system.It is designed to facilitate employee logins,management of bus schedules,booking and canclling of seats and file handling of the bus reservation system.
+FEATURES:
+Employee login-There is a safe way for employees to login using their user name and inserting a password.For example i use the username John and password amari.
+Bus Scheduale Managment-Admins can add,view,delete or modify bus schedules.There is also predefined destinations and time for depature and arrival.
+Booking managment-Customers can search for available buses based  on the preffered route and timing.A ticket is issued automatically a seat is booked.Admins can view and manage
+bookings including cancellation.
+Booking history-The admins can view which customer booked a seat by inserting their name making the system more efficient.
+File handling-The systm incorperates file handling to store and retrieve data efficiently.
+
+FILE STRACTURE:
+Main c=main file containing th c code for the application.
